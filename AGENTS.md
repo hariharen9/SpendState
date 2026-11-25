@@ -640,7 +640,7 @@ System control and backup room:
 - **Local volume**: counts, oldest record, export JSON snapshot, export CSV ledger, import snapshot (replace mode, applies snapshot settings).
 - **Keyboard register**: every shortcut with keycaps.
 - **Destructive operations**: reset to demo dataset / purge all data — both two-press (`ArmedButton`).
-- **About**: build, schema, storage, runtime, fonts, creator credit (Hariharen — https://hariharen.site).
+- **About**: build, schema, storage, runtime, fonts, creator credit (Hariharen — https://hariharen.space).
 
 ---
 

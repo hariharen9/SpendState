@@ -43,7 +43,7 @@ export function SystemFooter({
           </div>
 
           <a
-            href="https://hariharen.site"
+            href="https://hariharen.space"
             target="_blank"
             rel="noreferrer"
             className="micro text-faint transition-colors hover:text-acidink"
@@ -76,7 +76,7 @@ export function SystemFooter({
           <span>{base}</span>
           <span className="text-linehard">·</span>
           <a
-            href="https://hariharen.site"
+            href="https://hariharen.space"
             target="_blank"
             rel="noreferrer"
             className="text-faint transition-colors hover:text-acidink"

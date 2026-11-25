@@ -398,7 +398,7 @@ export default function Settings() {
               </div>
               <dl className="grid grid-cols-2 gap-x-6 gap-y-2">
                 {[
-                  ['Creator', <a key="creator" href="https://hariharen.site" target="_blank" rel="noreferrer" className="underline decoration-linehard underline-offset-2 transition-colors hover:text-acidink">Hariharen</a>],
+                  ['Creator', <a key="creator" href="https://hariharen.space" target="_blank" rel="noreferrer" className="underline decoration-linehard underline-offset-2 transition-colors hover:text-acidink">Hariharen</a>],
                   ['Build', '1.0.0'],
                   ['Schema', 'V1'],
                   ['Storage', 'IndexedDB'],
